@@ -1,4 +1,7 @@
 User-agent: *
+Allow: /
 Disallow: /admin/
 Disallow: /login/
 Disallow: /signup/
+
+Sitemap: https://www.petrichorgardening.co.za/sitemap.xml
